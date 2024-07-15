@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navimg{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.9;
+   
+}
+.nav{
+    overflow: hidden;
+}
+.bioData{
+    /* background-color: aqua; */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.bioData img{
+    background-color: blueviolet;
+    border-radius: 180px;
+    width: 200px;
+}
+.bioData h3{
+    color: white;
+    padding-top: 10px;
+    font-size: 3.1rem;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+.bioData h5{
+    color: white;
+    padding-top: 3px;
+    font-weight: 200;
+    font-size: 1.25rem;
+    text-align: center;
+
+  
+}
+.bioData button{
+   margin-top: 25px;
+   padding: 15px 30px;
+   font-size: 20px;
+   background-color: transparent;
+   color: beige;
+   border: 1px solid violet;
+   cursor: pointer;
+}
+
+.bioData a{
+    margin-top: 25px;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: transparent;
+    color: beige;
+    border: 1px solid violet;
+    cursor: pointer;
+    text-decoration: none; }

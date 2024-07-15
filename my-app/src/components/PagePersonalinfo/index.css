@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.personalInfo2{
+    background-color: #1c1b23;
+    color: beige;
+}
+.heading{
+    text-align: center;
+  padding: 20px 0px;
+  color: beige;
+
+}
+.infoSection span{
+    color: violet;
+    letter-spacing: 0.9px;
+    
+}
+.infoSection div{
+    margin: 5px 0px;
+}
+
+.infoSection{
+    background-color:  #14131a;
+    padding: 20px 0px;
+}

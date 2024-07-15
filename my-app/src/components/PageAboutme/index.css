@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.about {
+  background-color: #1c1b23;
+}
+.heading {
+  text-align: center;
+  padding: 20px 0px;
+  color: beige;
+}
+.para {
+  padding: 0px 15px;
+  color: beige;
+  letter-spacing: 0.9px;
+  font-size: 1.25rem;
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+.iCards {
+  background-color: #14131a;
+  color: beige;
+  /* border: 1px solid black; */
+  min-height: 325px;
+  letter-spacing: 0.9px;
+}
+.role{
+    text-decoration: underline;
+}
+.card-title{
+    color: #F2F597;
+    letter-spacing: 0.9px;
+}

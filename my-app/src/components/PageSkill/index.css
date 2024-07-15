@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.skills {
+    background-color: #1c1b23;
+  }
+
+.iCard{
+    background-color: #14131a;
+    color: beige;
+    letter-spacing: 0.9px;
+}
+.skillSection{
+    padding: 10px 0px;
+    /* min-height: 0px; */
+}
+.skillSection span{
+    border: 1px solid violet;
+    border-radius: 2px;
+    padding: 5px 8px;
+    font-size: 15px;
+    font-weight: 100;
+    /* min-height: 150px; */
+}
